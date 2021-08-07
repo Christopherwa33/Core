@@ -7,6 +7,9 @@ Computer Science for Business Professionals [Here](https://certificates.cs50.io/
  
 Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificates/50fb32da8bc7)
 
+#Ask me something [Here](https://github.com/MicheleGiammarini/my/issues/1)
+
+
 <table>
   <tbody>
     <tr valign="top">
