@@ -3,7 +3,7 @@
 # "Welcome to my GitHub profile!" 😃
 
 # 💬 Interagisci:
-  - Hai una Domanda [commentando qua](https://github.com/ProfAndreaPollini/ProfAndreaPollini/issues/1)
+  - Hai una Domanda [commentando qua](https://github.com/MicheleGiammarini/MicheleGiammarini/issues/1)
  
 
 
