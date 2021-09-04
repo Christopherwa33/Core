@@ -62,7 +62,7 @@ Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificat
 
 
 
-Corso Java
+<h1>Corso Java<h1>
 <p>▪ Utilizzare i concetti di programmazione orientata agli oggetti (OO)<p>
 <p>▪ Utilizzare i vari costrutti del linguaggio di programmazione Java e gli
 strumenti standard del linguaggio<p>
@@ -89,7 +89,7 @@ presentato.<p>
 
  
 
-Forma.Temp
+<h1>C#<h1>
 <p>Attività e associazioni: MS-SQL, .NET, C#, Angular, Azure<p><p>
 <p>Database relazionale SQL: MS-SQL Server: database relazionali, il linguaggio SQL, definizione struttura dati, principali tecniche di manipolazione ed estrazione dati<p>
 
