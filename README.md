@@ -64,29 +64,28 @@ Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificat
 
 Corso Java
 <p>▪ Utilizzare i concetti di programmazione orientata agli oggetti (OO)<p>
-▪ Utilizzare i vari costrutti del linguaggio di programmazione Java e gli
-strumenti standard del linguaggio
-▪ Java
-▪ Sviluppare semplici applicazioni Java
-▪ Creare applicazioni client-server che sfruttano le tecnologie web e la
+<p>▪ Utilizzare i vari costrutti del linguaggio di programmazione Java e gli
+strumenti standard del linguaggio<p>
+<p>▪ Sviluppare semplici applicazioni Java<p>
+<p>▪ Creare applicazioni client-server che sfruttano le tecnologie web e la
 connessione alle basi di dati
-▪ Concetti di logica di programmazione e al linguaggio Java in
+<p>▪ Concetti di logica di programmazione e al linguaggio Java in
 particolare
-▪ Variabili semplici e complesse
+<p>▪ Variabili semplici e complesse
 ▪ metodi.
-▪ Introduzione ai concetti di sequenza, selezione e iterazione e loro uso in
+<p>▪ Introduzione ai concetti di sequenza, selezione e iterazione e loro uso in
 Java
-Tecnica dell&#39;esecuzione simbolica.
-▪ Metodi e proprietà in dettaglio. Costruttori. Metodi e proprietà di
+<p>Tecnica dell&#39;esecuzione simbolica.
+<p>▪ Metodi e proprietà in dettaglio. Costruttori. Metodi e proprietà di
 classe.
-▪ Elaborazione di algoritmi e di programmi Java inerenti a quanto
+<p>▪ Elaborazione di algoritmi e di programmi Java inerenti a quanto
 presentato.
-▪ Basi teoriche del design OO
-▪ Ereditarietà, incapsulamento, polimorfismo e loro uso pratico.
-Definizione di proprietà e metodi, loro
-▪ ereditarietà, architettura OO.
-▪ Interfacce e classi astratte
-▪ Gestione delle eccezioni
+<p>▪ Basi teoriche del design OO
+<p>▪ Ereditarietà, incapsulamento, polimorfismo e loro uso pratico.
+<p>Definizione di proprietà e metodi, loro
+<p>▪ ereditarietà, architettura OO.
+<p>▪ Interfacce e classi astratte
+<p>▪ Gestione delle eccezioni
 
  
 Forma.Temp
