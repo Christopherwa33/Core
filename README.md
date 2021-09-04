@@ -89,7 +89,7 @@ presentato.<p>
 
  
 
-<h1>C#<h1>
+<h1>Corso C#<h1>
 <p>Attività e associazioni: MS-SQL, .NET, C#, Angular, Azure<p><p>
 <p>Database relazionale SQL: MS-SQL Server: database relazionali, il linguaggio SQL, definizione struttura dati, principali tecniche di manipolazione ed estrazione dati<p>
 
