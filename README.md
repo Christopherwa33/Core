@@ -63,7 +63,7 @@ Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificat
 
 
 Corso Java
-▪ Utilizzare i concetti di programmazione orientata agli oggetti (OO)
+<p>▪ Utilizzare i concetti di programmazione orientata agli oggetti (OO)<p>
 ▪ Utilizzare i vari costrutti del linguaggio di programmazione Java e gli
 strumenti standard del linguaggio
 ▪ Java
