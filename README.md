@@ -68,39 +68,39 @@ Corso Java
 strumenti standard del linguaggio<p>
 <p>▪ Sviluppare semplici applicazioni Java<p>
 <p>▪ Creare applicazioni client-server che sfruttano le tecnologie web e la
-connessione alle basi di dati
+connessione alle basi di dati<p>
 <p>▪ Concetti di logica di programmazione e al linguaggio Java in
-particolare
+particolare<p>
 <p>▪ Variabili semplici e complesse
-▪ metodi.
+▪ metodi.<p>
 <p>▪ Introduzione ai concetti di sequenza, selezione e iterazione e loro uso in
-Java
-<p>Tecnica dell&#39;esecuzione simbolica.
+Java<p>
+<p>Tecnica dell&#39;esecuzione simbolica.<p>
 <p>▪ Metodi e proprietà in dettaglio. Costruttori. Metodi e proprietà di
-classe.
+classe.<p>
 <p>▪ Elaborazione di algoritmi e di programmi Java inerenti a quanto
-presentato.
-<p>▪ Basi teoriche del design OO
-<p>▪ Ereditarietà, incapsulamento, polimorfismo e loro uso pratico.
-<p>Definizione di proprietà e metodi, loro
-<p>▪ ereditarietà, architettura OO.
-<p>▪ Interfacce e classi astratte
-<p>▪ Gestione delle eccezioni
+presentato.<p>
+<p>▪ Basi teoriche del design OO<p>
+<p>▪ Ereditarietà, incapsulamento, polimorfismo e loro uso pratico.<p>
+<p>Definizione di proprietà e metodi, loro<p>
+<p>▪ ereditarietà, architettura OO.<p>
+<p>▪ Interfacce e classi astratte<p>
+<p>▪ Gestione delle eccezioni<p>
 
  
+
 Forma.Temp
-Forma.Temp
-Attività e associazioni: MS-SQL, .NET, C#, Angular, Azure
-Database relazionale SQL: MS-SQL Server: database relazionali, il linguaggio SQL, definizione struttura dati, principali tecniche di manipolazione ed estrazione dati
+<p>Attività e associazioni: MS-SQL, .NET, C#, Angular, Azure<p><p>
+<p>Database relazionale SQL: MS-SQL Server: database relazionali, il linguaggio SQL, definizione struttura dati, principali tecniche di manipolazione ed estrazione dati<p>
 
-Sistema di sviluppo Microsoft .NET: L’ambiente IDE Visual Studio; Il .NET Framework (4.5), e le principali librerie; Tipi di dati, tipi, istanze; Metodi, proprietà, eventi;
+<p>Sistema di sviluppo Microsoft .NET: L’ambiente IDE Visual Studio; Il .NET Framework (4.5), e le principali librerie; Tipi di dati, tipi, istanze; Metodi, proprietà, eventi;<p>
 
-Case study: realizzare una applicazione gestionale semplificata, basata su tre tabelle, funzioni CRUD e reporting elementare
+<p>Case study: realizzare una applicazione gestionale semplificata, basata su tre tabelle, funzioni CRUD e reporting elementare<p>
 
-Sviluppo web oriented – Servizi e protocolli: Architettura Stateless; Servizi esposti via API; Protocollo http e JSON; Client Browser Based
+<p>Sviluppo web oriented – Servizi e protocolli: Architettura Stateless; Servizi esposti via API; Protocollo http e JSON; Client Browser Based<p>
 
-Sviluppo web oriented – Developing: Back-End (C#, Domain Driven Design, ASP.net core, ORM Entity Framework), Front-End (HTML5, Angular, TypeScript)
+<p>Sviluppo web oriented – Developing: Back-End (C#, Domain Driven Design, ASP.net core, ORM Entity Framework), Front-End (HTML5, Angular, TypeScript)<p>
 
-Case study: realizzare una applicazione gestionale semplificata web-based
+<p>Case study: realizzare una applicazione gestionale semplificata web-based<p>
 
-Servizi cloud: MS-Azure: principi (IaaS,PaaS), paradigmi, utilizzo dei principali servizi di piattaforma: App Service, Function App, SQL Azure.
+<p>Servizi cloud: MS-Azure: principi (IaaS,PaaS), paradigmi, utilizzo dei principali servizi di piattaforma: App Service, Function App, SQL Azure.<p>
