@@ -15,6 +15,22 @@
 
 
 
+
+
+
+
+
+
+
+++++++++++
+[
+>+++++++>++++++++++>+++>+<<<<-
+]
+> ++++++-++.
+++++++++------------.
+++++++------------. +++++++++++++--------. ---. +++++++. -------.
+
+
 Computer Science for Business Professionals [Here](https://certificates.cs50.io/dd22c329-4bd1-4477-86b3-60c953e3e899.pdf?size=letter)
  
 Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificates/50fb32da8bc7)
